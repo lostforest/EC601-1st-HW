@@ -1,0 +1,3 @@
+/home/lostforest/test/CMakeFiles/edit_cache.dir
+/home/lostforest/test/CMakeFiles/rebuild_cache.dir
+/home/lostforest/test/CMakeFiles/edge.dir

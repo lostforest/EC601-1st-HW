@@ -84,6 +84,9 @@ int main( int argc, const char** argv )
 
     // Wait for a key stroke; the same function arranges events processing
     waitKey(0);
-
+    // I am resiponsible for generate a lot of useless change
+    //wHY tHEre Is SO maNy fIles , i Hvae no IdEA whAt are they, 
+    //Now might be the Time FoR the MaaaaTlab
+    // Another line another day
     return 0;
 }

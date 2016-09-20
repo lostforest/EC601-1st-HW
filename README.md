@@ -1,7 +1,7 @@
 ﻿
 **This home work is conducted by lostforest who is Zixun Yuan, and CeilingFANC is Fan Cao.**
 
-#**Description: **
+# **Description: **
 
 This is for first Homework for EC601 A1, which is a public repository including OpenCV file and results, image of Trello and some other test files.
 

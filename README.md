@@ -1,11 +1,14 @@
 ﻿
 **This home work is conducted by lostforest who is Zixun Yuan, and CeilingFANC is Fan Cao.**
 
-# **Description: **
+# *Description: *
 
 This is for first Homework for EC601 A1, which is a public repository including OpenCV file and results, image of Trello and some other test files.
 
 
+
+# *Output of OpenCV*
+![alt tag]https://github.com/lostforest/EC601-1st-HW/blob/Zixun/OpenCV/result_edge.cpp.png 
 
 The code is an OpenCV sample. It takes and image as input, process it and output the edge of the image. It works like this.
 Here is the input, the image for the lostforest.

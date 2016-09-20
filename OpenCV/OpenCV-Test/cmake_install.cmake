@@ -1,4 +1,4 @@
-# Install script for directory: /home/lostforest/test
+# Install script for directory: /home/lostforest/EC601-1st-HW/OpenCV/OpenCV-Test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/lostforest/test/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/lostforest/EC601-1st-HW/OpenCV/OpenCV-Test/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

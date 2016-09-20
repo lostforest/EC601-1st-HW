@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/lostforest/test/edge.cpp" "/home/lostforest/test/CMakeFiles/edge.dir/edge.cpp.o"
+  "/home/lostforest/EC601-1st-HW/OpenCV/OpenCV-Test/edge.cpp" "/home/lostforest/EC601-1st-HW/OpenCV/OpenCV-Test/CMakeFiles/edge.dir/edge.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

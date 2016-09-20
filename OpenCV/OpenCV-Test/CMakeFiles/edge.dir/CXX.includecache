@@ -6,6 +6,18 @@
 
 #IncludeRegexTransform: 
 
+/home/lostforest/EC601-1st-HW/OpenCV/OpenCV-Test/edge.cpp
+opencv2/core/utility.hpp
+/home/lostforest/EC601-1st-HW/OpenCV/OpenCV-Test/opencv2/core/utility.hpp
+opencv2/imgproc.hpp
+/home/lostforest/EC601-1st-HW/OpenCV/OpenCV-Test/opencv2/imgproc.hpp
+opencv2/imgcodecs.hpp
+/home/lostforest/EC601-1st-HW/OpenCV/OpenCV-Test/opencv2/imgcodecs.hpp
+opencv2/highgui.hpp
+/home/lostforest/EC601-1st-HW/OpenCV/OpenCV-Test/opencv2/highgui.hpp
+stdio.h
+-
+
 /home/lostforest/OpenCV/opencv/include/opencv/cxcore.h
 opencv2/core/core_c.h
 /home/lostforest/OpenCV/opencv/include/opencv/opencv2/core/core_c.h
@@ -1209,16 +1221,4 @@ opencv2/videostab/log.hpp
 /home/lostforest/OpenCV/opencv/modules/videostab/include/opencv2/videostab/opencv2/videostab/log.hpp
 
 /home/lostforest/OpenCV/opencv2/opencv_modules.hpp
-
-/home/lostforest/test/edge.cpp
-opencv2/core/utility.hpp
-/home/lostforest/test/opencv2/core/utility.hpp
-opencv2/imgproc.hpp
-/home/lostforest/test/opencv2/imgproc.hpp
-opencv2/imgcodecs.hpp
-/home/lostforest/test/opencv2/imgcodecs.hpp
-opencv2/highgui.hpp
-/home/lostforest/test/opencv2/highgui.hpp
-stdio.h
--
 

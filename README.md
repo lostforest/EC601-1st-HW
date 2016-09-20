@@ -13,6 +13,8 @@ This is for first Homework for EC601 A1, which is a public repository including 
 The code is an OpenCV sample. It takes an image as input, processes it and outputs the edge of the image. It works like the image shown above.
 
 # Image for Trello TBD
+![Alt text](/Image/Trello1.png)
+![Alt text](/Image/Trello2.png)
 
 The Trello link for this homework the  https://trello.com/b/8652wujZ/ec601-1st-hw
 

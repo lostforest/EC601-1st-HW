@@ -7,6 +7,9 @@ This is for first Homework for EC601 A1, which is a public repository including 
 # Using OpenCV
 ![Alt text](/Image/cmakeAndMake.png)
 
+# The original picture for the input
+![Alt text](/OpenCV/data/fruits.jpg)
+
 # Output of OpenCV
 ![Alt text](/Image/resultForOpenCV.png)
 

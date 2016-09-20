@@ -8,7 +8,7 @@ This is for first Homework for EC601 A1, which is a public repository including 
 
 
 # *Output of OpenCV*
-![alt tag]https://github.com/lostforest/EC601-1st-HW/blob/Zixun/OpenCV/result_edge.cpp.png 
+https://github.com/lostforest/EC601-1st-HW/blob/master/OpenCV/result_edge.cpp.png|alt=octocat]]
 
 The code is an OpenCV sample. It takes and image as input, process it and output the edge of the image. It works like this.
 Here is the input, the image for the lostforest.
